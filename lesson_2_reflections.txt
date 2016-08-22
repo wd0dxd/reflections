@@ -9,3 +9,10 @@ The staging area holds files that you want to track.  When you commit, git write
 How can you use the staging area to make sure you have one commit per logical change?
 
 Only add the files to the staging area that are included in each logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If you wanted to try out an experimental feature or change languages.  You could try them out and then merge the changes later if you like them.
+
+How do the diagrams help you visualize the branch structure?
+It helps you see all the connections between the files and the branches.
