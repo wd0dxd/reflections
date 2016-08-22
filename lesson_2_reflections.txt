@@ -1,3 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 Metafiles used for tracking the repository are created in a new folder named .git.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area holds files that you want to track.  When you commit, git writes the changes to the working directory.
+
+test
