@@ -16,3 +16,9 @@ If you wanted to try out an experimental feature or change languages.  You could
 
 How do the diagrams help you visualize the branch structure?
 It helps you see all the connections between the files and the branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It mergers all the changes made in the two branches.  Because it shows the two paths.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic help keeps track of easy commits, but still requires manual intervention
